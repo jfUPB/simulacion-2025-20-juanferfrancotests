@@ -3,3 +3,6 @@
 ## 🔎 Fase: Set + Seek
 
 ### Actividad 01
+
+OK
+
